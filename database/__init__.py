@@ -1,1 +1,1 @@
-from database.db import con
+from .db import con
